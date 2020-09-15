@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pg"
+    }
+  },
+  "defaultProject": "pg",
+  "cli": {
+    "analytics": false
+  }
 }
